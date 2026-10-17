@@ -1,0 +1,10 @@
+{
+  "name": "shanjitong-search-backend",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone Shanjitong search API with a simple Chinese UI",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0" }
+}
